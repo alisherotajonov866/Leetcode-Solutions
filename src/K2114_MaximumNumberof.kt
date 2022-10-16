@@ -12,7 +12,3 @@ fun mostWordsFound(sentences: Array<String>): Int {
         }
         return max
     }
-fun main() {
-    val sentences = arrayOf("i love you","island","iroman","i love English grammer")
-    println(mostWordsFound(sentences))
-}

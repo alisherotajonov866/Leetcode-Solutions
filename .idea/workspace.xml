@@ -44,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager" selected="Kotlin.K13_RomantoIntegerKt">
+  <component name="RunManager" selected="Kotlin.K29_ValidParenthesesKt">
     <configuration name="K1313_DecompressRunLengthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="K1313_DecompressRunLengthKt" />
       <module name="LeetcodeKt" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K2114_MaximumNumberofKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K2114_MaximumNumberofKt" />
+    <configuration name="K29_ValidParenthesesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K29_ValidParenthesesKt" />
       <module name="LeetcodeKt" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.K29_ValidParenthesesKt" />
         <item itemvalue="Kotlin.K13_RomantoIntegerKt" />
         <item itemvalue="Kotlin.TestKt" />
         <item itemvalue="Kotlin.K1528_ShuffleStringKt" />
         <item itemvalue="Kotlin.K1313_DecompressRunLengthKt" />
-        <item itemvalue="Kotlin.K2114_MaximumNumberofKt" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +118,9 @@
       <workItem from="1664984907045" duration="4858000" />
       <workItem from="1665049296292" duration="6194000" />
       <workItem from="1665139097039" duration="4000" />
-      <workItem from="1665190256365" duration="24000" />
+      <workItem from="1665190256365" duration="711000" />
+      <workItem from="1665504609368" duration="2157000" />
+      <workItem from="1665740415195" duration="7000" />
     </task>
     <servers />
   </component>
